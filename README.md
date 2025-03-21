@@ -18,4 +18,3 @@ Esta API devuelve un listado de publicaciones en formato JSON.
 - Aprender a consumir una API REST desde Node.js.
 - Utilizar Axios para hacer peticiones HTTP.
 - Manejar respuestas y errores de forma adecuada.
-- Practicar la estructura básica de un proyecto con Git y GitHub.
